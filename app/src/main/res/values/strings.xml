@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Rental Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_action">Add</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="save_action">Save</string>
+
+    <string name="address_hint">Address</string>
+    <string name="rent_hint">Monthly rent</string>
+    <string name="date_hint">Date lived</string>
+    <string name="landlord_hint">LandLord</string>
+    <string name="title_activity_add_addresses">AddAddresses</string>
+
+    <string name="street_hint">Street</string>
+    <string name="city_hint">City</string>
+    <string name="state_hint">State</string>
+    <string name="date_in_hint">Move-in</string>
+    <string name="date_out_hint">Move-out</string>
+    <string name="separator_between_date">to</string>
+
+    <string name="invalid_street_name">Street field can\'t be empty!</string>
+    <string name="invalid_city_name">City field can\'t be empty!</string>
+    <string name="invalid_state_name">State field can\'t be empty!</string>
+    <string name="invalid_monthly_rent">The monthly rent must be a number!</string>
+    <string name="invalid_landlord">LandLord field can\'t be empty!</string>
+    <string name="invalid_date_field">Please, choose date!
+        The first date should be before the second date!</string>
+    <string name="invalid_date_fields">The first date should be before the second date!</string>
+
+    <string name="title_add_new_address">ADD AN ADDRESS</string>
+    <string name="title_edit_address">EDIT AN ADDRESS</string>
+
+</resources>
